@@ -1,4 +1,6 @@
-# Calculadora-de-Soma
+Calculadora de soma desenvolvida com HTML, JavaScript e Bootstrap 5 para prática de lógica de programação e manipulação do DOM.
+
+
 <img width="1162" height="480" alt="{83D1800D-AE2B-458C-A9E5-69ADAE8FDC2B}" src="https://github.com/user-attachments/assets/8d791fb6-ed5f-4307-bb10-418ceeed4e12" />
  Calculadora de Soma
 
